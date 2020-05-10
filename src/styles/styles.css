@@ -3,9 +3,13 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #f4f4f4;
-  color: #3c484e;
+  background-color: black;
+  color: white;
   font-family: "Open Sans", sans-serif;
+}
+
+a {
+  color: white;
 }
 
 .Header-main {
@@ -16,7 +20,7 @@ body {
 
 .Header a {
   text-decoration: none;
-  color: #15302c;
+  color: white;
 }
 
 .Main {
